@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pragya Hundia</h1>
+<h3 align="center">B.Tech CSE (AI & ML) | 3rd Year Student | Passionate about Full Stack Development & AI</h3>
 
-<!--
-**ph-tech/ph-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**
+- 🎓 I'm a 3rd-year B.Tech student specializing in **Computer Science with AI & ML**  
+- 💻 I enjoy building web interfaces and working on real-world problems  
+- 🌱 Currently learning **Full Stack Development** and exploring **Artificial Intelligence**  
+- ✨ I love blending design (UI/UX) with functionality  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Languages & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX-F48FB1?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PragyaHundia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragyaHundia&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+📫 **Reach Me At**
+- Email: pragyahundia9849@gmail.com 
+- LinkedIn:www.linkedin.com/in/pragya-hundia-168807296 
+
+
+---
+
+🎯 **Goals for 2025**
+- 🚀 Build impactful full-stack web apps  
+- 🤖 Work on AI/ML real-life projects  
+- 💼 Get an internship at a top tech company  
+
+---
+
+💬 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
