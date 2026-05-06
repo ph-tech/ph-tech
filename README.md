@@ -31,7 +31,7 @@
 
 ---
 
-🎯 **Goals for 2025**
+🎯 **Goals for 2026**
 - 🚀 Build impactful full-stack web apps  
 - 🤖 Work on AI/ML real-life projects  
 - 💼 Get an internship at a top tech company  
