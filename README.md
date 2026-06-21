@@ -4,7 +4,7 @@
 ---
 
 🌟 **About Me**
-- 🎓 I'm a 3rd-year B.Tech student specializing in **Computer Science with AI & ML**  
+- 🎓 I'm a 4th-year B.Tech student specializing in **Computer Science with AI & ML**  
 - 💻 I enjoy building web interfaces and working on real-world problems  
 - 🌱 Currently learning **Full Stack Development** and exploring **Artificial Intelligence**  
 - ✨ I love blending design (UI/UX) with functionality  
