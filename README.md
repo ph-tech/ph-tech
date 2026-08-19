@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragya Hundia</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | 3rd Year Student | Passionate about Full Stack Development & AI</h3>
+<h3 align="center">B.Tech CSE (AI & ML) | 4th Year Student | Passionate about Full Stack Development & AI</h3>
 
 ---
 
